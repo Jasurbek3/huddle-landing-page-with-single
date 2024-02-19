@@ -1,0 +1,448 @@
+@media (min-width:376px) {
+    .header {
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+
+    .container {
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+
+    .main {
+        column-gap: 95px;
+    }
+
+
+    .compyuter-header__seach {
+        width: 138px;
+        height: 17px;
+    }
+
+    .compyuter-header {
+        border-radius: 14px 14px 0px 0px;
+        padding: 15px 43px 15px 50px;
+    }
+
+    .compyuter-header-liner,
+    .telefon-liner {
+        width: 22px;
+        height: 14px;
+    }
+
+    .compyuter-main {
+        padding: 50px 94px 60px 50px;
+        border-radius: 0 0 14px 14px;
+    }
+
+    .telefon-main {
+        padding: 35px 28px 35px 22px;
+        border-radius: 0 0 7px 7px;
+    }
+
+    .telefon-speach {
+        width: 90px;
+        height: 14.379px;
+    }
+
+    .telefon {
+        width: 219.213px;
+        height: 350.578px;
+        left: 477px;
+        top: 115px;
+    }
+
+    .telefon-header {
+        border-radius: 3px 3px 0 0;
+        padding: 11px 22px;
+    }
+
+    .compyuter-header__seach,
+    .telefon-speach {
+        border-radius: 4px;
+    }
+
+    .telefon-main__item {
+        row-gap: 15px;
+    }
+
+    .compyuter-main__item {
+        row-gap: 30px;
+    }
+
+    .compyuter-main__list {
+        column-gap: 35px;
+    }
+
+    .telefon-main__list {
+        column-gap: 12px;
+    }
+
+    .compyuter-soft {
+        width: 66px;
+        height: 66px;
+    }
+
+    .telefon-soft {
+        width: 20px;
+        height: 20px;
+    }
+
+    .compyuter-item {
+        row-gap: 5px;
+    }
+
+    .telefon-item {
+        row-gap: 2px;
+    }
+
+    .compyuter-title,
+    .telefon-title,
+    .compyuter-text1,
+    .telefon-text1,
+    .compyuter-text2,
+    .telefon-text2,
+    .compyuter-text3,
+    .telefon-text3 {
+        border-radius: 3px;
+    }
+
+    .compyuter-title {
+        width: 79px;
+        margin-bottom: 5px;
+        height: 11px;
+    }
+
+    .telefon-title {
+        width: 40px;
+        height: 5px;
+        margin-bottom: 2px;
+    }
+
+    .compyuter-text1 {
+        width: 275px;
+        height: 6px;
+    }
+
+    .telefon-text1 {
+        width: 136px;
+        height: 3px;
+    }
+
+    .compyuter-text2 {
+        width: 252px;
+        height: 6px;
+    }
+
+    .telefon-text2 {
+        width: 126px;
+        height: 3px;
+    }
+
+    .compyuter-text3 {
+        width: 229px;
+        height: 6px;
+        border-radius: 3px;
+
+    }
+
+    .telefon-text3 {
+        width: 115px;
+        height: 3px;
+    }
+
+    .compyuter-points {
+        column-gap: 5px;
+    }
+
+    .compyuter-point {
+        width: 16px;
+        height: 16px;
+    }
+
+    .main-register {
+        row-gap: 24px;
+    }
+
+    .register-title {
+        max-width: 487px;
+        width: 100%;
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .register-text {
+        margin: 24px 0;
+        max-width: 520px;
+        width: 100%;
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    .register-link {
+        width: 200px;
+        height: 56px;
+    }
+
+    .register-link__text {
+        padding: 14px 63px;
+        border-radius: 28px;
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+
+
+    .footer {
+        margin-top: 110px;
+
+    }
+
+    .footer-item {
+        margin-bottom: 40px;
+    }
+
+    .footer-list {
+        justify-content: flex-end;
+        column-gap: 16px;
+    }
+
+    .footer-link {
+        width: 40px;
+        height: 40px;
+
+    }
+}
+
+@media (max-width:375px) {
+    .header {
+        margin-top: 38px;
+        padding-bottom: 40px;
+    }
+
+    .compyuter {
+        width: 279.685px;
+        height: 174.167px;
+    }
+
+    .compyuter-main__item {
+        padding: 14px 7px;
+        border-radius: 0 0 5.827px 5.827px;
+        row-gap: 16px;
+    }
+
+    .container {
+        margin: 0 34px;
+    }
+
+    .header-logo {
+        width: 120px;
+        height: 19px;
+    }
+
+    .main {
+        flex-direction: column;
+        row-gap: 94px;
+    }
+
+    .compyuter-main {
+        max-width: 279.685px;
+        width: 100%;
+    }
+
+    .compyuter-header {
+        max-width: 279.685px;
+        width: 100%;
+        height: 18.578px;
+        border-radius: 5.827px 5.827px 0px 0px;
+        padding: 5px 20px;
+    }
+
+    .compyuter-header__seach {
+        width: 58.268px;
+        height: 6.967px;
+    }
+
+    .compyuter-header-liner,
+    .telefon-liner {
+        width: 9.323px;
+        height: 5.806px;
+    }
+
+
+
+    .compyuter-main__list {
+        column-gap: 15px;
+    }
+
+    .compyuter-soft {
+        width: 28px;
+        height: 28px;
+    }
+
+    .compyuter-item {
+        row-gap: 3px;
+    }
+
+    .compyuter-title {
+        width: 34px;
+        height: 5px;
+        margin-bottom: 3px;
+    }
+
+    .compyuter-text1 {
+        width: 116.535px;
+        height: 3px;
+    }
+
+    .compyuter-text2 {
+        width: 106.824px;
+        height: 3px;
+    }
+
+    .compyuter-text3 {
+        width: 97.1129px;
+        height: 3px;
+    }
+
+    .compyuter-points {
+        column-gap: 2.5px;
+    }
+
+    .compyuter-point {
+        width: 13px;
+        height: 13px;
+    }
+
+    .telefon-header {
+        border-radius: 3px 3px 0 0;
+        padding: 4px 7px;
+    }
+
+    .telefon-speach {
+        width: 45px;
+        height: 4px;
+    }
+
+    .telefon {
+        width: 93.228px;
+        height: 148.622px;
+        left: 201px;
+        top: 60px;
+        flex-shrink: 0;
+    }
+
+    .telefon-main {
+        padding: 4px 7px;
+        margin-top: 13;
+        margin-bottom: 13px;
+
+    }
+
+    .telefon-main__item {
+        row-gap: 5px;
+    }
+
+    .telefon-main__list {
+        column-gap: 3px;
+    }
+
+    .telefon-soft {
+        width: 15px;
+        width: 15px;
+    }
+
+    .telefon-item {
+        row-gap: 2px;
+    }
+
+    .telefon-title {
+        width: 31px;
+        height: 6px;
+    }
+
+    .telefon-text1 {
+        width: 8px;
+        height: 1px;
+    }
+
+    .telefon-text2 {
+        width: 6.5px;
+        height: 1;
+    }
+
+    .telefon-text3 {
+        width: 6px;
+        height: 1px;
+    }
+
+    .compyuter-title,
+    .telefon-title,
+    .compyuter-text1,
+    .telefon-text1,
+    .compyuter-text2,
+    .telefon-text2,
+    .compyuter-text3,
+    .telefon-text3 {
+        border-radius: 3px;
+    }
+
+    .main-register {
+        row-gap: 16px;
+    }
+
+    .register-title {
+        max-width: 280px;
+        width: 100%;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .register-text {
+        display: flex;
+        justify-content: center;
+        max-width: 304px;
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+        margin: 16px 0 24px 0;
+    }
+
+    .register-link {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .register-link__text {
+        width: 200px;
+        height: 40px;
+        padding: 11px 75px;
+        border-radius: 20px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .footer {
+        margin-top: 64px;
+    }
+
+    .footer-item {
+        margin-bottom: 40px;
+    }
+
+    .footer-list {
+        justify-content: center;
+        column-gap: 10px;
+    }
+
+    .footer-link {
+        width: 27.142px;
+        height: 28px;
+    }
+
+
+    .footer-icon {
+        padding: 7px 10px;
+    }
+}
